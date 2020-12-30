@@ -1,6 +1,6 @@
-# frontend
+# Frontend - Music Library Page
 
-## Build Setup
+## Link:: https://music-library-page-nathan-oliveira.netlify.app/
 
 ```bash
 # install dependencies
