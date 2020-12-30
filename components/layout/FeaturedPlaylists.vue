@@ -37,7 +37,7 @@
   padding-top: 20px;
 }
 
-@media screen and (min-width: 1544px) {
+@media screen and (min-width: 1440px) {
   .wrapper {
     max-width: 1100px;
   }
