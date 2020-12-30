@@ -68,6 +68,13 @@
     .col__4 {
       width: 30% !important;
     }
+    
+    .col__8 {
+      h1 {
+        font-size: 18px;
+        margin-left: 43%;
+      }
+    }
   }
 }
 
@@ -76,6 +83,7 @@
     .col__4 {
       width: 40% !important;
     }
+
     .col__8 {
       width: 60% !important;
       padding-left: 0% !important;
