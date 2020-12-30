@@ -106,4 +106,14 @@
     }
   }
 }
+
+@media screen and (max-width: 800px) {
+  .row {
+    .col__8 {
+      h1 {
+        margin-top: 10px !important;
+      }
+    }
+  }
+}
 </style>
