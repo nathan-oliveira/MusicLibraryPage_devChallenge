@@ -39,7 +39,7 @@
 
 @media screen and (min-width: 1440px) {
   .wrapper {
-    max-width: 1100px;
+    max-width: 1085px;
   }
 }
 
