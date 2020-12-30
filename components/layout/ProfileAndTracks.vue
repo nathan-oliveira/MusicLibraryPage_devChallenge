@@ -71,7 +71,7 @@
   }
 }
 
-@media screen and (max-width: 1134px) {
+@media screen and (max-width: 1040px) {
   .row {
     .col__4 {
       width: 40% !important;
