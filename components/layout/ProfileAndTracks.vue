@@ -63,6 +63,14 @@
   }
 }
 
+@media screen and (min-width: 1440px) {
+  .row {
+    .col__4 {
+      width: 30% !important;
+    }
+  }
+}
+
 @media screen and (max-width: 1134px) {
   .row {
     .col__4 {
