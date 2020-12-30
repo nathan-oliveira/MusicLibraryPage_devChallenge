@@ -111,7 +111,7 @@
   .row {
     .col__8 {
       h1 {
-        margin-top: 10px !important;
+        margin-top: 20px !important;
       }
     }
   }
