@@ -60,6 +60,7 @@
 
   .wrapper {
     max-width: 80%;
+    padding-top: 10px !important;
   }
 }
 
