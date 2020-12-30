@@ -28,6 +28,18 @@
   }
 }
 
+@media screen and (max-width: 396px) {
+  .container {
+    padding: 0 0 0 20px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .container {
+    padding: 0px;
+  }
+}
+
 .content {
   // background: linear-gradient(to right, #140729, #1E0531);
   background: linear-gradient(to right, #101329, #1F1734);
