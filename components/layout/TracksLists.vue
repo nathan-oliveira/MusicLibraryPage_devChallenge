@@ -45,6 +45,13 @@
   }
 }
 
+@media screen and (min-width: 1440px) {
+  .col__tracks__playlists {
+    margin-left: 50% !important;
+    margin-bottom: -10px;
+  }
+}
+
 @media screen and (max-width: 1040px) {
   .col__tracks__playlists {
     margin-left: 0%;
