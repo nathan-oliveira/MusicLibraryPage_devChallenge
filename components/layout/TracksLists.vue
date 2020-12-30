@@ -50,6 +50,10 @@
     margin-left: 43% !important;
     margin-bottom: -10px;
   }
+  
+  .wrapper {
+    height: 178px;
+  }
 }
 
 @media screen and (max-width: 1040px) {
